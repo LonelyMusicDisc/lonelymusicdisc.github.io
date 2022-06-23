@@ -1,0 +1,18 @@
+html {
+    font-family: 'Fira Code', monospace;
+    font-size: 1.5em;
+}
+
+body {
+    background-color: #242124;
+    color: #faf0ed;
+    padding: 0.75cm;
+}
+
+h1, p {text-align: center;}
+
+.label {
+    background-color: #147d30;
+    border-radius: 0.2em;
+    padding: 6px;
+}
